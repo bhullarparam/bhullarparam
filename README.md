@@ -31,6 +31,7 @@ Passionate about leveraging **Python, Excel, SQL, and analytics** to solve real-
 **Languages:**
 - English (C1)
 - Hindi (Native)
+- Punjabi(native)
 
 ---
 
